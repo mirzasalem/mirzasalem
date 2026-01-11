@@ -5,7 +5,7 @@
 - 💬 All of my projects are available at [https://github.com/mirzasalem](https://github.com/mirzasalem?tab=repositories)
 - 📫 **How to reach me:** - **mirza.salem25@gmail.com**
 - 😄 **Pronouns:** Mirza
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me a Lot.
+- ⚡ **Fun fact:** I love technology, and technology loves me back.
 ## 🌐 **Personal Website:** [Mirza Salem](https://mirzasalem.vercel.app/)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirza2224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirzasalem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirzasalem) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mirzasalem2766) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirza.salem25@gmail.com) 
