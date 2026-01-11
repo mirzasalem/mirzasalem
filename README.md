@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mirza Salem
-**A passionate Embedded Systems || Robotics || Web Development || IoT**
+**Research interests: UAVs | Robotics | Embedded Systems | Web Development | IoT**
 - 🔭 I’m currently working on [CIS Tech Ltd.](https://cistechltd.com/en-EU)
 - 🌱 I’m currently learning **Django, ReactJS, Go, ML**
 - 💬 All of my projects are available at [https://github.com/mirzasalem](https://github.com/mirzasalem?tab=repositories)
