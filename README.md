@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mirza Salem
 **Research interests: UAVs | Robotics | Embedded Systems | Web Development | IoT**
 <!-- - 🔭 I’m currently working on [CIS Tech Ltd.](https://cistechltd.com/en-EU)-->
-- 🌱 I’m currently learning **Django, FastAPI, MongoDB, MySQL, and ML**
+- 🌱 I’m currently learning **Django, FastAPI, MongoDB, MySQL, AI, and LLM**
 - 💬 All of my projects are available at [https://github.com/mirzasalem](https://github.com/mirzasalem?tab=repositories)
 - 📫 **How to reach me:** - **mirza.salem25@gmail.com**
 - ⚡ **Fun fact:** I love technology, and technology loves me back.
